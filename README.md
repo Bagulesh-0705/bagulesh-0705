@@ -21,7 +21,7 @@
 ```python
 class Bagulesh:
     name        = "Bagulesh S"
-    location    = "Nagapattinam, Tamil Nadu, India 🇮🇳"
+    location    = "Mayiladuthurai, Tamil Nadu, India 🇮🇳"
     degree      = "B.E – Computer Science & Engineering (2022–2026)"
     college     = "EGS Pillay Engineering College (Autonomous)"
     email       = "bagulesh.it@gmail.com"
