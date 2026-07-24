@@ -141,11 +141,11 @@ class Bagulesh:
 </details>
 
 <details>
-<summary>🧪 Software Testing — HCL</summary>
+<summary>🧪 Software Testing — Career Craft Academy & HCLTech</summary>
 
 > ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-38BDAE?style=flat-square&logo=testinglibrary&logoColor=white)
 
-- ✅ Certified in Software Testing by HCL Technologies
+- ✅ Software Testing Training | HCLTech Career Shaper Program Implemented by Career Craft Academy
 - 🐛 Proficient in manual test case design, execution, and defect reporting
 - 📋 Familiar with SDLC, STLC, and bug life cycle
 
@@ -171,11 +171,11 @@ class Bagulesh:
 
 | 🎖️ | Achievement | Details |
 |:---:|:---|:---|
-| 🥇 | **Best Project Award** | Achiever's Day — EGS Pillay Engineering College · Project: Catching Malicious URLs |
+| 🥇 | **Best Project Award** | Achiever's Day — EGS Pillay Engineering College · Project: Third-Party APK Security Awareness Application |
 | 🎓 | **Full Stack Certified** | Datanerdz.AI — Full Stack Development |
 | 🐍 | **Python Certified** | JM Tech — Python Programming |
-| 🧪 | **Testing Certified** | HCL Technologies — Software Testing |
-| 🏛️ | **Workshop Participant** | Full Stack Development Workshop — PSG Technology, Coimbatore |
+| 🧪 | **Testing Certified** | HCLTech Career Shaper Program Implemented by Career Craft Academy |
+
 
 </div>
 
@@ -187,7 +187,7 @@ class Bagulesh:
 
 | 📚 Degree | 🏫 Institution | 📅 Year | 📊 Score |
 |:---|:---|:---|:---|
-| B.E – Computer Science & Engineering | EGS Pillay Engineering College (Autonomous), Nagapattinam | 2022–2026 | CGPA: 6.9 |
+| B.E – Computer Science & Engineering | EGS Pillay Engineering College (Autonomous), Nagapattinam | 2022–2026 | CGPA: 7.8 |
 | HSC (Class 12) | Best Matriculation HR SEC School, Sirkali | 2020–2021 | 61% |
 | SSLC (Class 10) | S.M.H HR SEC School, Sirkali | 2018–2019 | 51% |
 
